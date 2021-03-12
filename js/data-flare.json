@@ -1,0 +1,1538 @@
+{
+	"name": "Sustainability Accounting Standard Board (SASB)",
+	"children": [
+		{
+			"name": "Advertising & Marketing",
+			"size": 1
+		},
+		{
+			"name": "Aerospace & Defense",
+			"size": 1
+		},
+		{
+			"name": "Agricultural Products",
+			"size": 1
+		},
+		{
+			"name": "Air Freight & Logistics",
+			"size": 1
+		},
+		{
+			"name": "Airlines",
+			"size": 1
+		},
+		{
+			"name": "Alcoholic Beverages",
+			"size": 1
+		},
+		{
+			"name": "Apparel, Accessories & Footwear",
+			"size": 1
+		},
+		{
+			"name": "Appliance Manufacturing",
+			"size": 1
+		},
+		{
+			"name": "Asset Management & Custody Activities",
+			"size": 1
+		},
+		{
+			"name": "Auto Parts",
+			"size": 1
+		},
+		{
+			"name": "Automobiles",
+			"size": 1
+		},
+		{
+			"name": "Biofuels",
+			"size": 1
+		},
+		{
+			"name": "Biotechnology & Pharmaceuticals",
+			"size": 1
+		},
+		{
+			"name": "Building Products & Furnishings",
+			"size": 1
+		},
+		{
+			"name": "Car Rental & Leasing",
+			"size": 1
+		},
+		{
+			"name": "Casinos & Gaming",
+			"size": 1
+		},
+		{
+			"name": "Chemicals",
+			"size": 1
+		},
+		{
+			"name": "Coal Operations",
+			"size": 1
+		},
+		{
+			"name": "Commercial Banks",
+			"children": [
+				{
+					"name": "Data Security",
+					"children": [
+						{
+							"name": "Data Security",
+							"children": [
+								{
+									"name": "FN-CB-230a.1",
+									"children": [
+										{
+											"name": "(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of account holders affected",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-230a.2",
+									"children": [
+										{
+											"name": "Description of approach to identifying and addressing data security risks",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Access & Affordability",
+					"children": [
+						{
+							"name": "Financial Inclusion & Capacity Building",
+							"children": [
+								{
+									"name": "FN-CB-240a.1",
+									"children": [
+										{
+											"name": "(1) Number and (2) amount of loans outstanding qualified to programs designed to promote small business and community development",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-240a.2",
+									"children": [
+										{
+											"name": "(1) Number and (2) amount of past due and nonaccrual loans qualified to programs designed to promote small business and community development",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-240a.3",
+									"children": [
+										{
+											"name": "Number of no-cost retail checking accounts provided to previously unbanked or underbanked customers",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-240a.4",
+									"children": [
+										{
+											"name": "Number of participants in financial literacy initiatives for unbanked, underbanked, or underserved customers",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Product Design & Lifecycle Management",
+					"children": [
+						{
+							"name": "Incorporation of Environmental, Social, and Governance Factors in Credit Analysis",
+							"children": [
+								{
+									"name": "FN-CB-410a.1",
+									"children": [
+										{
+											"name": "Commercial and industrial credit exposure, by industry",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-410a.2",
+									"children": [
+										{
+											"name": "Description of approach to incorporation of environmental, social, and governance (ESG) factors in credit analysis",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Business Ethics",
+					"children": [
+						{
+							"name": "Business Ethics",
+							"children": [
+								{
+									"name": "FN-CB-510a.1",
+									"children": [
+										{
+											"name": "Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-510a.2",
+									"children": [
+										{
+											"name": "Description of whistleblower policies and procedures",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Systemic Risk Management",
+					"children": [
+						{
+							"name": "Systemic Risk Management",
+							"children": [
+								{
+									"name": "FN-CB-550a.1",
+									"children": [
+										{
+											"name": "Global Systemically Important Bank (G-SIB) score, by category",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Basis points (bps)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-CB-550a.2",
+									"children": [
+										{
+											"name": "Description of approach to incorporation of results of mandatory and voluntary stress tests into capital adequacy planning, long-term corporate strategy, and other business activities",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Construction Materials",
+			"size": 1
+		},
+		{
+			"name": "Consumer Finance",
+			"size": 1
+		},
+		{
+			"name": "Containers & Packaging",
+			"size": 1
+		},
+		{
+			"name": "Cruise Lines",
+			"size": 1
+		},
+		{
+			"name": "Drug Retailers",
+			"size": 1
+		},
+		{
+			"name": "E-Commerce",
+			"size": 1
+		},
+		{
+			"name": "Education",
+			"size": 1
+		},
+		{
+			"name": "Electric Utilities & Power Generators",
+			"size": 1
+		},
+		{
+			"name": "Electrical & Electronic Equipment",
+			"size": 1
+		},
+		{
+			"name": "Electronic Manufacturing Services & Original Design Manufacturing",
+			"size": 1
+		},
+		{
+			"name": "Engineering & Construction Services",
+			"size": 1
+		},
+		{
+			"name": "Food Retailers & Distributors",
+			"size": 1
+		},
+		{
+			"name": "Forestry Management",
+			"size": 1
+		},
+		{
+			"name": "Fuel Cells & Industrial Batteries",
+			"size": 1
+		},
+		{
+			"name": "Gas Utilities & Distributors",
+			"size": 1
+		},
+		{
+			"name": "Hardware",
+			"size": 1
+		},
+		{
+			"name": "Health Care Delivery",
+			"size": 1
+		},
+		{
+			"name": "Health Care Distributors",
+			"size": 1
+		},
+		{
+			"name": "Home Builders",
+			"size": 1
+		},
+		{
+			"name": "Hotels & Lodging",
+			"size": 1
+		},
+		{
+			"name": "Household & Personal Products",
+			"size": 1
+		},
+		{
+			"name": "Industrial Machinery & Goods",
+			"size": 1
+		},
+		{
+			"name": "Insurance",
+			"size": 1
+		},
+		{
+			"name": "Internet Media & Services",
+			"size": 1
+		},
+		{
+			"name": "Investment Banking & Brokerage",
+			"children": [
+				{
+					"name": "Employee Engagement, Diversity & Inclusion",
+					"children": [
+						{
+							"name": "Employee Diversity & Inclusion",
+							"children": [
+								{
+									"name": "FN-IB-330a.1",
+									"children": [
+										{
+											"name": "Percentage of gender and racial/ethnic group representation for (1) executive management, (2) non-executive management, (3) professionals, and (4) all other employees",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Product Design & Lifecycle Management",
+					"children": [
+						{
+							"name": "Incorporation of Environmental, Social, and Governance Factors in Investment Banking & Brokerage Activities",
+							"children": [
+								{
+									"name": "FN-IB-410a.1",
+									"children": [
+										{
+											"name": "Revenue from (1) underwriting, (2) advisory, and (3) securitization transactions incorporating integration of environmental, social, and governance (ESG) factors, by industry",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-410a.2",
+									"children": [
+										{
+											"name": "(1) Number and (2) total value of investments and loans incorporating integration of environmental, social, and governance (ESG) factors, by industry",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-410a.3",
+									"children": [
+										{
+											"name": "Description of approach to incorporation of environmental, social, and governance (ESG) factors in investment banking and brokerage activities",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Business Ethics",
+					"children": [
+						{
+							"name": "Business Ethics",
+							"children": [
+								{
+									"name": "FN-IB-510a.1",
+									"children": [
+										{
+											"name": "Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-510a.2",
+									"children": [
+										{
+											"name": "Description of whistleblower policies and procedures",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Professional Integrity",
+							"children": [
+								{
+									"name": "FN-IB-510b.1",
+									"children": [
+										{
+											"name": "(1) Number and (2) percentage of covered employees with a record of investment-related investigations, consumer-initiated complaints, private civil litigations, or other regulatory proceedings",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-510b.2",
+									"children": [
+										{
+											"name": "Number of mediation and arbitration cases associated with professional integrity, including duty of care, by party",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-510b.3",
+									"children": [
+										{
+											"name": "Total amount of monetary losses as a result of legal proceedings associated with professional integrity, including duty of care",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-510b.4",
+									"children": [
+										{
+											"name": "Description of approach to ensuring professional integrity, including duty of care",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Systemic Risk Management",
+					"children": [
+						{
+							"name": "Systemic Risk Management",
+							"children": [
+								{
+									"name": "FN-IB-550a.1",
+									"children": [
+										{
+											"name": "Global Systemically Important Bank (G-SIB) score, by category",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Basis points (bps)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-550a.2",
+									"children": [
+										{
+											"name": "Description of approach to incorporation of results of mandatory and voluntary stress tests into capital adequacy planning, long-term corporate strategy, and other business activities",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Employee Incentives & Risk Taking",
+							"children": [
+								{
+									"name": "FN-IB-550b.1",
+									"children": [
+										{
+											"name": "Percentage of total remuneration that is variable for Material Risk Takers (MRTs)",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-550b.2",
+									"children": [
+										{
+											"name": "Percentage of variable remuneration of Material Risk Takers (MRTs) to which malus or clawback provisions were applied",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-IB-550b.3",
+									"children": [
+										{
+											"name": "Discussion of policies around supervision, control, and validation of traders' pricing of Level 3 assets and liabilities",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Iron & Steel Producers",
+			"size": 1
+		},
+		{
+			"name": "Leisure Facilities",
+			"size": 1
+		},
+		{
+			"name": "Managed Care",
+			"size": 1
+		},
+		{
+			"name": "Marine Transportation",
+			"size": 1
+		},
+		{
+			"name": "Meat, Poultry & Dairy",
+			"size": 1
+		},
+		{
+			"name": "Media & Entertainment",
+			"size": 1
+		},
+		{
+			"name": "Medical Equipment & Supplies",
+			"size": 1
+		},
+		{
+			"name": "Metals & Mining",
+			"children": [
+				{
+					"name": "GHG Emissions",
+					"children": [
+						{
+							"name": "Greenhouse Gas Emissions",
+							"children": [
+								{
+									"name": "EM-MM-110a.1",
+									"children": [
+										{
+											"name": "Gross global Scope 1 emissions, percentage covered under emissions-limiting regulations",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Metric tons (t)  CO2-e, Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-110a.2",
+									"children": [
+										{
+											"name": "Discussion of long-term and short-term strategy or plan to manage Scope 1 emissions, emissions reduction targets, and an analysis of performance against those targets",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Air Quality",
+					"children": [
+						{
+							"name": "Air Quality",
+							"children": [
+								{
+									"name": "EM-MM-120a.1",
+									"children": [
+										{
+											"name": "Air emissions of the following pollutants",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Metric tons (t)",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Energy Management",
+					"children": [
+						{
+							"name": "Energy Management",
+							"children": [
+								{
+									"name": "EM-MM-130a.1",
+									"children": [
+										{
+											"name": "(1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Gigajoules (GJ), Percentage (%)",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Water & Wastewater Management",
+					"children": [
+						{
+							"name": "Water Management",
+							"children": [
+								{
+									"name": "EM-MM-140a.1",
+									"children": [
+										{
+											"name": "(1) Total fresh water withdrawn, (2) total fresh water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Thousand cubic  meters (m3),  Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-140a.2",
+									"children": [
+										{
+											"name": "Number of incidents of non-compliance associated with water quality permits, standards, and regulations",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Waste & Hazardous Materials Management",
+					"children": [
+						{
+							"name": "Waste & Hazardous Materials Management",
+							"children": [
+								{
+									"name": "EM-MM-150a.1",
+									"children": [
+										{
+											"name": "Total weight of tailings waste, percentage recycled",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Metric tons (t), Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-150a.2",
+									"children": [
+										{
+											"name": "Total weight of mineral processing waste, percentage recycled",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Metric tons (t),  Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-150a.3",
+									"children": [
+										{
+											"name": "Number of tailings impoundments, broken down by MSHA hazard potential",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Ecological Impacts",
+					"children": [
+						{
+							"name": "Biodiversity Impacts",
+							"children": [
+								{
+									"name": "EM-MM-160a.1",
+									"children": [
+										{
+											"name": "Description of environmental management policies and practices for active sites",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-160a.2",
+									"children": [
+										{
+											"name": "Percentage of mine sites where acid rock drainage is 1) predicted to occur, 2) actively mitigated, and 3) under treatment or remediation",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-160a.3",
+									"children": [
+										{
+											"name": "Percentage of (1) proved and (2) probable reserves in or near sites with protected conservation status or endangered species habitat",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Human Rights & Community Relations",
+					"children": [
+						{
+							"name": "Security, Human Rights & Rights of Indigenous Peoples",
+							"children": [
+								{
+									"name": "EM-MM-210a.1",
+									"children": [
+										{
+											"name": "Percentage of (1) proved and (2) probable reserves in or near areas of conflict",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-210a.2",
+									"children": [
+										{
+											"name": "Percentage of (1) proved and (2) probable reserves in or near indigenous land",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-210a.3",
+									"children": [
+										{
+											"name": "Discussion of engagement processes and due diligence practices with respect to human rights, indigenous rights, and operation in areas of conflict",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Community Relations",
+							"children": [
+								{
+									"name": "EM-MM-210b.1",
+									"children": [
+										{
+											"name": "Discussion of process to manage risks and opportunities associated with community rights and interests",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-210b.2",
+									"children": [
+										{
+											"name": "Number and duration of non-technical delays",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Days",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Labor Practices",
+					"children": [
+						{
+							"name": "Labor Relations",
+							"children": [
+								{
+									"name": "EM-MM-310a.1",
+									"children": [
+										{
+											"name": "Percentage of active workforce covered under collective bargaining agreements, broken down by U.S. and foreign employees",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-310a.2",
+									"children": [
+										{
+											"name": "Number and duration of strikes and lockouts",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Days",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Employee Health & Safety",
+					"children": [
+						{
+							"name": "Workforce Health & Safety",
+							"children": [
+								{
+									"name": "EM-MM-320a.1",
+									"children": [
+										{
+											"name": "(1) MSHA all-incidence rate, (2) fatality rate, (3) near miss frequency rate (NMFR) and (4) average hours of health, safety, and emergency response training for (a) full-time employees and (b) contract employees",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Rate",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Business Ethics",
+					"children": [
+						{
+							"name": "Business Ethics & Transparency",
+							"children": [
+								{
+									"name": "EM-MM-510a.1",
+									"children": [
+										{
+											"name": "Description of the management system for prevention of corruption and bribery throughout the value chain",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "EM-MM-510a.2",
+									"children": [
+										{
+											"name": "Production in countries that have the 20 lowest rankings in Transparency InternationalÕs Corruption Perception Index",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Metric tons (t) saleable",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Mortgage Finance",
+			"size": 1
+		},
+		{
+			"name": "Multiline and Specialty Retailers & Distributors",
+			"size": 1
+		},
+		{
+			"name": "Non-Alcoholic Beverages",
+			"size": 1
+		},
+		{
+			"name": "Oil & Gas - Exploration & Production",
+			"size": 1
+		},
+		{
+			"name": "Oil & Gas - Midstream",
+			"size": 1
+		},
+		{
+			"name": "Oil & Gas - Refining & Marketing",
+			"size": 1
+		},
+		{
+			"name": "Oil & Gas - Services",
+			"size": 1
+		},
+		{
+			"name": "Processed Foods",
+			"size": 1
+		},
+		{
+			"name": "Professional & Commercial Services",
+			"size": 1
+		},
+		{
+			"name": "Pulp & Paper Products",
+			"size": 1
+		},
+		{
+			"name": "Rail Transportation",
+			"size": 1
+		},
+		{
+			"name": "Real Estate",
+			"size": 1
+		},
+		{
+			"name": "Real Estate Services",
+			"size": 1
+		},
+		{
+			"name": "Restaurants",
+			"size": 1
+		},
+		{
+			"name": "Road Transportation",
+			"size": 1
+		},
+		{
+			"name": "Security & Commodity Exchanges",
+			"children": [
+				{
+					"name": "Business Ethics",
+					"children": [
+						{
+							"name": "Managing Conflicts of Interest",
+							"children": [
+								{
+									"name": "FN-EX-510a.1",
+									"children": [
+										{
+											"name": "Total amount of monetary losses as a result of legal proceedings associated with fraud, insider trading, anti-trust, anti-competitive behavior, market manipulation, malpractice, or other related financial industry laws or regulations",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Reporting currency",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-EX-510a.2",
+									"children": [
+										{
+											"name": "Discussion of processes for identifying and assessing conflicts of interest",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Product Design & Lifecycle Management",
+					"children": [
+						{
+							"name": "Promoting Transparent & Efficient Capital Markets",
+							"children": [
+								{
+									"name": "FN-EX-410a.1",
+									"children": [
+										{
+											"name": "(1) Number and (2) average duration of (a) halts related to public release of information and (b) pauses related to volatility",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Minutes",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-EX-410a.2",
+									"children": [
+										{
+											"name": "Percentage of trades generated from automated trading systems",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-EX-410a.3",
+									"children": [
+										{
+											"name": "Description of alert policy regarding timing and nature of public release of information",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-EX-410a.4",
+									"children": [
+										{
+											"name": "Discussion of processes for identifying and assessing conflicts of interest",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Systemic Risk Management",
+					"children": [
+						{
+							"name": "Managing Business Continuity & Technology Risks",
+							"children": [
+								{
+									"name": "FN-EX-550a.1",
+									"children": [
+										{
+											"name": "(1) Number of significant market disruptions and (2) duration of downtime",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Hours (h)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-EX-550a.2",
+									"children": [
+										{
+											"name": "(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of customers affected",
+											"size": 1
+										},
+										{
+											"name": "Quantitative",
+											"size": 1
+										},
+										{
+											"name": "Number, Percentage (%)",
+											"size": 1
+										}
+									]
+								},
+								{
+									"name": "FN-EX-550a.3",
+									"children": [
+										{
+											"name": "Description of efforts to prevent technology errors, security breaches, and market disruptions",
+											"size": 1
+										},
+										{
+											"name": "Discussion and Analysis",
+											"size": 1
+										},
+										{
+											"name": "",
+											"size": 1
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Semiconductors",
+			"size": 1
+		},
+		{
+			"name": "Software & IT Services",
+			"size": 1
+		},
+		{
+			"name": "Solar Technology & Project Developers",
+			"size": 1
+		},
+		{
+			"name": "Telecommunication Services",
+			"size": 1
+		},
+		{
+			"name": "Tobacco",
+			"size": 1
+		},
+		{
+			"name": "Toys & Sporting Goods",
+			"size": 1
+		},
+		{
+			"name": "Waste Management",
+			"size": 1
+		},
+		{
+			"name": "Water Utilities & Services",
+			"size": 1
+		},
+		{
+			"name": "Wind Technology & Project Developers",
+			"size": 1
+		}
+	]
+}

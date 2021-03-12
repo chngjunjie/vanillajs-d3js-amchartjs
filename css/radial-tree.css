@@ -1,0 +1,184 @@
+#toolbar {
+  display: flex;
+  display: -webkit-box;
+  display: moz-box-flex;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  /* position: fixed; */
+  /* top: 10px; */
+  /* left: 10px; */
+  font-family: Roboto, Helvetica, sans-serif;
+  box-shadow: 1px 1px 3px;
+  background-color: #ECEFF1;
+}
+.tool {
+  display: flex;
+  flex-direction: column;
+  border: solid black 1px;
+  padding: 1px;
+}
+.tlabel {
+  text-align: center;
+  padding: 3px 2px 1px 2px;
+}
+.tbuttons {
+  display: flex;
+  display: -webkit-box;
+  display: moz-box-flex;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.button {
+  border: outset gray 2px;
+	border-radius: 4px;
+	cursor: pointer;
+  padding: 1px 3px;
+  min-width: 12px;
+  text-align: center;
+  margin: 2px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: white;
+}
+.button:hover {
+  background-color: yellow;
+}
+.button:active {
+  border: inset gray 2px;
+}
+#selection {
+  margin: 2px 5px;
+  vertical-align: middle;
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  background-color: white;
+}
+#selection span.nodepath:hover {
+  background-color: rgba(0, 0, 25, 0.1);
+  cursor: pointer;
+}
+#selection span.nodepath.highlight {
+  font-weight: bold;
+}
+#contextmenu {
+  display: none;
+  position: absolute;
+  border: solid black 1px;
+  box-shadow: 2px 2px 3px gray;
+  padding: 2px;
+  background-color: white;
+  font-family: Roboto, Helvetica, sans-serif;
+  font-size: 0.9em;
+}
+#contextmenu div {
+  padding: 4px 10px;
+  cursor: pointer;
+}
+#contextmenu div:hover {
+  background-color: rgba(0, 0, 25, 0.1);
+}
+#contextmenu span.expcol {
+  pointer-events: none;
+}
+#help {
+  position: relative;
+  bottom: -1.8em;
+  transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -moz-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  width: 1.2em;
+}
+#help a {
+  color: black;
+  text-decoration: none;
+  background-color: white;
+}
+#help:hover a {
+  background-color: yellow;
+}
+
+#tree-container, svg {
+  overflow: hidden;
+}
+.node {
+  cursor: pointer;
+}
+.node circle {
+  fill: #fff;
+}
+.node text {
+  font-size: 12px;
+  font-family: Roboto, sans-serif;
+  text-shadow: 4px 4px 3px white, -4px -4px 3px white;
+}
+.node text:hover {
+  font-size: 1.2em;
+  transition: font-size 0.1s;
+}
+.node text:not(:hover) {
+  transition: font-size 1s;
+  transition-delay: 0.5s;
+}
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+.materiality-issues-recommendation {
+  max-width: 100%;
+}
+
+.sasb-number {
+  background-image: url("images/logo/sasb_logo.jpeg");
+}
+
+.nav-header .logo-abbr {
+  max-width: 14em;
+}
+
+.search-d3 {
+  width: 22em;
+}
+
+.search-d3 input{
+  width: 17.5em;
+}
+
+/* Am chart css */
+#chartdiv {
+  width: 100%;
+  height: 51em;
+  font-size: 8pt;
+  margin-bottom: 5em;
+}
+
+
+#chartdiv_1 {
+  width: 100%;
+  height: 400px;
+}
+
+ul#menu li a{
+  font-size: 14px;
+  padding-right: 0px;
+}
+
+@media only screen and (max-width: 1199px) {
+  .nav-header .logo-abbr {
+      max-width: 4em;
+    }
+}
+
+
+@media (min-width: 767px) {
+  [data-sidebar-style="full"][data-layout="vertical"] .menu-toggle .nav-header .logo-abbr {
+    max-width: 4em;
+  }
+  
+  [data-sidebar-style="mini"] .nav-header .logo-abbr {
+    max-width: 4em;
+  }
+}
